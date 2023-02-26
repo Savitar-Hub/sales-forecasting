@@ -1,0 +1,9 @@
+# Ignore common files
+venv
+*.env
+data
+.ipynb_checkpoints
+TODO.md
+
+# Training files
+ignore.pt
